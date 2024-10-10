@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 
 # Load environment variables once
-load_dotenv('../.env/.env')
+load_dotenv('.venv')
 api_id = os.getenv('TG_API_ID')
 api_hash = os.getenv('TG_API_HASH')
 phone = os.getenv('phone')
