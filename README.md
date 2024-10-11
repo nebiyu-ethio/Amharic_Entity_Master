@@ -21,7 +21,7 @@ This project focuses on fine-tuning a large language model (LLM) for Amharic Nam
 
 ## Data
 
-- **Sources**: Messages and data from Ethiopian-based Telegram e-commerce channels
+- **Sources**: Messages and data from Ethiopian-based Telegram e-commerce channels https://t.me/sinayelj
 - **Types**:
   - Text (Amharic language messages)
   - Images (Product images, marketing materials)
